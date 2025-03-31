@@ -72,7 +72,13 @@
             <li>DOB; 11/09/2006</li>
             <li>CONTACT; 0115552044</li>
         </ul>
-    
+                <p> I am a student at The Technical University of Mombasa pursuing a course in Diploma of Computer Science</p>
+            <p>I am currently under a Scholarship with the Power Learn Project learning much of Software Engineeering</p>
+            <p>I When I'm not coding, you can find me research about the new technology and the programming languages</p>
+        <p>Apart from study-related stuff in my free time what i do most is listening to songs, playing gamesor even doing something like exercising that keeps me fit </p>
+            You can find me on linkedin via the link shared http://www.linkedin.com/in/ruth-joy-525a32332](www.linkedin.com/in/ruth-joy-525a32332) or contact me at 0115552044 instagram @Devlyn_D and also on tiktok @Sta.rruth1😁
+        </p>
+
 
 * {
     margin: 0;
