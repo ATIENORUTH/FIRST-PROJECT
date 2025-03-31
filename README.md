@@ -71,17 +71,8 @@
             <li>AGE; 19 yrs</li>
             <li>DOB; 11/09/2006</li>
             <li>CONTACT; 0115552044</li>
-            <li>STATUS; MARRIED😂</li>
         </ul>
-        <p>I love doing alot of stuff that i cant state here😁. Some might think its a lie cause i dont potray much of it and also i dont like people knowing alot about me. <br>What you need to know is that i am an ambivert but most of my traits are forseen as an introvert
-            First and foremost i am the only child to my mom 😍 and i am also the first grandchild to grandies 
-            I am a student at The Technical University of Mombasa pursuing a course in Diploma of Computer Science
-           <br> You can find me on instagram @Devlyn_D and also on tiktok @Sta.rruth1😁
-        </p>
-
-    </section>
-</body>
-</html>
+    
 
 * {
     margin: 0;
